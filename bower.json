@@ -1,0 +1,25 @@
+{
+  "name": "parsr.js",
+  "version": "1.0.0",
+  "description": "Parsr allow you to automatically load and instanciate requireJS module by data attribute in DOM",
+  "main": "./parsr.js",
+  "moduleType": [
+    "globals"
+  ],
+  "dependencies"  : {},
+  "keywords": [
+    "requireJS",
+    "requireJS module",
+    "requireJS modules",
+    "modules",
+    "data-module",
+    "data-modules",
+    "load modules"
+  ],
+  "ignore": [],
+  "authors": [
+    "Joris DANIEL"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/yoriiis/parsr.js"
+}
